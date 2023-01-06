@@ -305,3 +305,8 @@ void loop(){
 
 ```
 ## Hasil
+https://github.com/Khabiburr/Jobsheet-3/blob/main/1.png
+https://github.com/Khabiburr/Jobsheet-3/blob/main/3%20(1).png
+https://github.com/Khabiburr/Jobsheet-3/blob/main/3.png
+https://github.com/Khabiburr/Jobsheet-3/blob/main/COM3%202022-11-28%2010-17-07.mp4
+https://github.com/Khabiburr/Jobsheet-3/blob/main/WhatsApp%20Image%202022-11-28%20at%2011.30.18.jpeg
